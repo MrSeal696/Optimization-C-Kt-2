@@ -33,6 +33,7 @@ static void BubbleSort(int[] arr)
         }
     }
 }
+
 ```
 
 ### Оптимизированная версия
@@ -65,6 +66,7 @@ static void OptimizedBubbleSort(int[] arr)
         if (!swapped) break;
     }
 }
+
 ```
 
 ## Тестирование
